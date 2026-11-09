@@ -1,0 +1,15 @@
+{
+  "name": "Eduarfrutas",
+  "version": "1.0.0",
+  "description": "Registro de llegada y venta de fruta de EduarFrutas del Valle",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "Eduardo Jiménez Marín",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
